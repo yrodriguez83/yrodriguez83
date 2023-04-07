@@ -1,6 +1,5 @@
 
 
- 👋
 
 ##  Hi there! I'm Yam Rodriguez
 <div id="header" align="center">
