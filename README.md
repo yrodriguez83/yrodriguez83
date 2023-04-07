@@ -1,18 +1,9 @@
 
 
 
-##  Hi there! I'm Yam Rodriguez
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/46757368/230644989-7d00e10d-b194-4e47-9aab-e2d10bb86c58.png" width="300"/>
-</div>
+##  👋 Hi there! I'm Yam Rodriguez
 
-## 📈 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yrodriguez83&theme=radical&count_private=true)
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=yrodriguez83&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrodriguez83&hide_progress=true&theme=radical&count_private=false)
-
-## 🚀 About Me
+## About Me
 
 🎓 **Education:** Bachelor of Science in Statistics from the University of Illinois at Urbana-Champaign, and currently pursuing a Master of Science in Computer Science at DePaul University.
 
@@ -23,6 +14,14 @@
 🐾 **Hobbies:** Long walks with my golden retriever, Beni.
 
 💡 **Mantra:** Lifelong learning is the key to success in any field.
+
+## 📈 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yrodriguez83&theme=radical&count_private=true)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=yrodriguez83&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrodriguez83&hide_progress=true&theme=radical&count_private=false)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yrodriguez83&theme=radical)
