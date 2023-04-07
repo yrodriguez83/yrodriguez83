@@ -1,9 +1,8 @@
 
 
-# 👋
+ 👋
 
-##  Hello there! I'm Yam Rodriguez, a Data Engineer & Tech Enthusiast!
-
+##  Hi there! I'm Yam Rodriguez
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/46757368/230644989-7d00e10d-b194-4e47-9aab-e2d10bb86c58.png" width="300"/>
 </div>
@@ -32,7 +31,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 🛠 Skills!
+## 🛠 Skills
 
 <!-- Simple Icons (SVG) -->
 <p>
@@ -50,12 +49,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" height="30" />
 </p>
 
-## 👀 Check out my Medium articles:
+## 👀 Check out my Medium articles
 
 [![Check out my Medium articles:](https://github-readme-medium.vercel.app/?username=yam.rodriguez23)](https://medium.com/@yam.rodriguez23)
 <p>
   
-## 👋 Let's Connect: 
+## 👋 Let's Connect
+  
   <a href="https://www.linkedin.com/in/yam-949529144" target="_blank">
     <img src="https://user-images.githubusercontent.com/46757368/230650127-092509cf-43e5-4b47-a8ad-70de2e40cb45.png" alt="LinkedIn" width="30">
   </a>
