@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 <!--
-**yrodriguez83/yrodriguez83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
+<p align="center">
+  <img width="120px" src="https://raw.githubusercontent.com/omidnikrah/github-readme-medium/master/medium.png" />
+  <h2 align="center">Hi, I'm Yam Rodriguez</h2>
+  <p align="center">📖 Latest Medium articles!</p>
+</p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
