@@ -26,9 +26,9 @@ Bachelor's degree in Statistics from the University of Illinois in Urbana-Champa
 <br> 
 🤝 Let's Connect: 
 <br>
-LinkedIn: https://www.linkedin.com/in/yam-949529144/
+- LinkedIn: https://www.linkedin.com/in/yam-949529144/
 <br>
-Email: yam.rodriguez23@gmail.com
+- Email: yam.rodriguez23@gmail.com
 <br>
 
 
