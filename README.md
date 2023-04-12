@@ -15,11 +15,7 @@
 
 💡 **Mantra:** Lifelong learning is the key to success in any field.
 
-## 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yrodriguez83&theme=radical&count_private=true)
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=yrodriguez83&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrodriguez83&hide_progress=true&theme=radical&count_private=false)
 
 
 
