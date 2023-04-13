@@ -9,7 +9,7 @@
 
 🌟 **Passions:** Breaking down complex tech concepts, designing intuitive interfaces, and making data accessible to everyone. Love to share knowledge through Medium articles.
 
-🍸 **Fun Fact:** I'm also a bartender (in-training) at Lucille!
+🍸 **Fun Fact:** I'm also a bartender at Lucille!
 
 🐾 **Hobbies:** Long walks with my golden retriever, Beni.
 
